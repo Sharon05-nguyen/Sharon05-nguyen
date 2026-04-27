@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there
+I am an international student currently living and studying in Canada. I am passionate about art, technology, and everything in between.
 
-<!--
-**Sharon05-nguyen/Sharon05-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Study: 
+- I am studying Interactive Design and Technology.
+### Skills:
+  I have experience with professional creative tools to handle everything from branding to video production:
 
-Here are some ideas to get you started:
+ - UI/UX Design: Figma (Prototyping & Wireframing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Graphic Design: Adobe Photoshop, Illustrator, InDesign
+
+ - Video & Audio: Adobe Premiere Pro (Video Editing) & Adobe Audition (Audio Processing)
+
+### Coding: 
+- I'm also learning how to build websites with HTML, CSS, and JavaScript.
+
+I enjoy turning creative ideas into digital products. Nice to meet you!
